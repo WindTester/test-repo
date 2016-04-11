@@ -1,3 +1,2 @@
 # test-repo
-testing
-this is a revision of the readme file
+This is a test to practice pulling and pushing a file that was in conflict
