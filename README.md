@@ -1,2 +1,2 @@
 # test-repo
-testing
+This is a test to practice pulling and pushing to a github repository
